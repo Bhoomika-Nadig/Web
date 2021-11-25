@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading {
+    background-color: aqua;
+    color: palevioletred;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 100px;
+    text-align: center;
+}
